@@ -39,4 +39,4 @@ I added a calculation-history feature. It stores successful calculations during 
 I practised writing Python functions, using loops and conditional statements, converting user input to numbers, handling invalid input, and storing results in a list.
 
 ## Author
-[Your Full Name], ND1 Mechatronics Engineering, YabaTech.
+[Udogu favour kosisochukwu], ND1 Mechatronics Engineering, YabaTech.
